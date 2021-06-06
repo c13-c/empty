@@ -1,0 +1,13 @@
+{
+	"artifacts": [
+		
+		{
+			"name": "playerstatusextendedchambers.jar",
+			"plugins": ["net.runelite.client.plugins.playerstatusextended.PlayerStatusExtendedPlugin"],
+			"version": "1.1.11",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850903369794453504/playerstatusextendedchambers.jar",
+			"hash": "8e001e77142bf49b59388be9e8cfd1b1d56319f22facfadbdf4b2fd755628629",
+			"description": "Player status for chambers"
+		}
+	]
+}
