@@ -19,8 +19,8 @@
 					"net.runelite.client.plugins.socket.SocketPlugin",
 				],
 			"version": "3.0.0",
-			"path": "https://raw.githubusercontent.com/c13-c/Socket/master/release/Socket.jar"
-			"hash": "06d94c9e1a7a6ad57c89a771641da13baf0f2108e6990402d2408db6347f2691",
+			"path": "https://raw.githubusercontent.com/c13-c/Socket/master/release/Socket.jar",
+			"hash": "0e656674949567b74dc2464a520686afe1ab4999fb0db1c6ac98d1c9916e2cfd",
 			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
 		}
 	]
