@@ -1,0 +1,13 @@
+{
+	"artifacts": [
+		
+		{
+			"name": "cSotetseg.jar",
+			"plugins": ["net.runelite.client.plugins.cSotetseg.cSotetsegPlugin"],
+			"version": "1.2.0",
+			"path": "https://raw.githubusercontent.com/c13-c/empty/main/test/mainfest/cSotetseg.jar",
+			"hash": "01dd7d6df91c57ebaf374d6462913255ea5a77a5212b4d80a02af048813d41e3",
+			"description": "REQUIRES SOCKET. Shows optimal maze path."
+		}
+	]
+}
